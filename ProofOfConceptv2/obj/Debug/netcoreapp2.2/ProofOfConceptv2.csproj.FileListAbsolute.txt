@@ -1,0 +1,14 @@
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\bin\Debug\netcoreapp2.2\ProofOfConceptv2.deps.json
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\bin\Debug\netcoreapp2.2\ProofOfConceptv2.runtimeconfig.json
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\bin\Debug\netcoreapp2.2\ProofOfConceptv2.runtimeconfig.dev.json
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\bin\Debug\netcoreapp2.2\ProofOfConceptv2.dll
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\bin\Debug\netcoreapp2.2\ProofOfConceptv2.pdb
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.csprojAssemblyReference.cache
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.csproj.CoreCompileInputs.cache
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.RazorAssemblyInfo.cache
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.RazorAssemblyInfo.cs
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.AssemblyInfoInputs.cache
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.AssemblyInfo.cs
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.RazorTargetAssemblyInfo.cache
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.dll
+C:\LmsPlatform\themeforest-67xxE0Wf-courseplus-modern-learning-management-application\ProofOfConceptv2\ProofOfConceptv2\obj\Debug\netcoreapp2.2\ProofOfConceptv2.pdb
